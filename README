@@ -1,0 +1,14 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=658
+
+Does some basic syntax highlighting for SMTP and HTTP header information.
+
+Currently identifies and colours:
+  - header names
+  - dates
+  - times
+  - hostnames
+  - IP addresses
+  - content-type headers
+  - email addresses
+
+It's kinda kludgy; corrections and suggestions welcome.
